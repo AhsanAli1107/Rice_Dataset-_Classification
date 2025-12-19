@@ -1,1 +1,2 @@
-myenv
+myenv.DS_Store
+*.DS_Store # Also ignore in subdirectories
