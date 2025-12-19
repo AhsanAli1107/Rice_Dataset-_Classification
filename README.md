@@ -2,8 +2,6 @@
 
 A deep learning–based image classification system that identifies different rice varieties from uploaded images.
 
-## 🚀 Live Demo
-https://YOUR-APP.onrender.com
 
 ## 🧠 Model Details
 - Architecture: Convolutional Neural Network (CNN)
@@ -18,7 +16,7 @@ https://YOUR-APP.onrender.com
 ## 🖥️ Web Application
 - Built with Streamlit
 - Users can upload rice images and get instant predictions
-- Deployed on Render
+
 
 ## 🛠 Tech Stack
 - Python
